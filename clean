@@ -1,5 +1,9 @@
 #!/bin/bash
 
-cp $* tmp
-tidy -indent -wrap 1000 < tmp > $*
-rm tmp
+for f in *.html; do
+  cp $f tmp;
+  /usr/bin/tidy -indent -wrap 1000 < tmp > $f;
+  rm tmp;
+  ./clean.py $f > tmp;
+  mv tmp $f;
+done;
