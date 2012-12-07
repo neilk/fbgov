@@ -2,8 +2,16 @@ fbgov
 =====
 
 It is not easy to see the changes in Facebook's governance documents, so I made these 
-cleaned-up documents. 
+cleaned-up documents, along with a visual "diff" to see the changes clearly.
 
+Note that:
+
+* This is not an official publication of Facebook. I have no association with Facebook other than
+  being a user. This is my analysis of the documents, which I hope will be useful. I believe this falls
+  under fair use, much as a journalist might analyze any other document released by Facebook.
+
+* This is not authoritative. During my analysis I had to manipulate the files to get an easy to 
+  understand comparison. Errors and omissions may have inadvertently occurred.
 
 
 These are based on the documents I downloaded from Facebook at about Mon Dec 3 23:47:41 2012 -0800.
@@ -12,7 +20,9 @@ The Data Use Policy documents are all in one document in the proposed version, a
 many pages in the existing version. So I combined all the existing version pages into one, for
 an easier comparison.
 
-To verify that I haven't altered the contents, you can peruse the git history of this project.
+To verify that I haven't altered the contents, or made mistakes when massaging these files into
+easy-to-diff formats, you can peruse the git history of this project.
+
 I started with the raw files and then cleaned them up with scripts in this project and
 HTML Tidy (/usr/bin/tidy in Mac OS X, released 2006-10-31 build 15.6).
 
