@@ -41,4 +41,7 @@ documents say.
 If Facebook makes further changes to their proposed policies, I will try to keep current but
 pull requests would be most welcome.
 
+I tried to see what it would look like if the new "proposed" documents were in their own branch, but 
+the HTML diff on Github didn't give me good results. 
+
 -- Neil K.
