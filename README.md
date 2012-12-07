@@ -13,6 +13,13 @@ Note that:
 * This is not authoritative. During my analysis I had to manipulate the files to get an easy to 
   understand comparison. Errors and omissions may have inadvertently occurred.
 
+## The diffs! ##
+
+The Statement of Rights and Responsibilities: http://htmlpreview.github.com/?https://github.com/neilk/fbgov/blob/master/srr-diff.html
+
+The Data Use Policy: http://htmlpreview.github.com/?https://github.com/neilk/fbgov/blob/master/dup-diff.html
+
+## Notes ##
 
 These are based on the documents I downloaded from Facebook at about Mon Dec 3 23:47:41 2012 -0800.
 
