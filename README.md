@@ -1,6 +1,20 @@
 fbgov
 =====
 
+## This whole project is useless ##
+
+Apparently Facebook did publish some diffs; "redline" is lawyer-speak for diffs.
+
+It's not super easy to find, though.
+
+https://www.facebook.com/legal/srrredline
+
+https://www.facebook.com/legal/dupredline
+
+
+
+## Well if you are still even reading... ##
+
 It is not easy to see the changes in Facebook's governance documents, so I made these 
 cleaned-up documents, along with a visual "diff" to see the changes clearly.
 
